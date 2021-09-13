@@ -1,10 +1,6 @@
 body {
   overflow-x: hidden;
-  font-family: 'Ubuntu', sans-serif;
-  
-}
-.bg-color{
-  color: #ecf0f1;
+  font-family: 'Ubuntu', sans-serif;  
 }
 .search-field {
   border: none;
