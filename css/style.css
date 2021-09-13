@@ -114,16 +114,19 @@ body {
 /* Rating & Count Rating-Star Style */
 .star-rating {
   color: orange;
+  font-size: 14px; 
 }
 
 .rating{
   color: #ff0000;
   font-weight: bold;
+  font-size: 14px;
 }
 
 .count{
   color: green;
   font-weight: bold;
+  font-size: 14px;
  
 }
 
